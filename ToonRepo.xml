@@ -662,4 +662,17 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+	<app>
+		<name>HomeWizard P1</name>
+  		<version>1.0.0</version>
+  		<folder>homewizardp1</folder>
+  		<description>Toont huidig verbruik en L1/L2/L3 via HomeWizard Energy P1.</description>
+  		<author>JouwNaam</author>
+  		<skipautoupdate>no</skipautoupdate>
+  		<screenshots>0</screenshots>
+  		<firmwareminimum>6.0.0</firmwareminimum>
+  		<firmwaremaximum>9.99.9</firmwaremaximum>
+ 	 	<toon2only>no</toon2only>
+  		<allowdeletion>yes</allowdeletion>
+	</app>
 </repository>
